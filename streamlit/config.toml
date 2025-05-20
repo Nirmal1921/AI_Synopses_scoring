@@ -1,0 +1,12 @@
+[theme]
+primaryColor = "#4B9FDE"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F0F2F6"
+textColor = "#262730"
+font = "sans serif"
+
+
+[server]
+maxUploadSize = 5  # Reduce from 10MB to 5MB
+enableXsrfProtection = false  # Temporarily disable for testing
+enableCORS = true
